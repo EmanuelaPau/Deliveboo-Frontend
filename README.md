@@ -37,20 +37,20 @@ npm artisan serve
 <br>
 <p align="center">
     <span align="left">
-        <img src="public/DeliveBoo Homepage.png" height="400px"/>
+        <img src="public/assets/DeliveBoo Homepage.png" height="400px"/>
     </span>
     <span align="right">
-        <img src="public/DeliveBoo Restaurant Search.png" height="400px">
+        <img src="public/assets/DeliveBoo Restaurant Search.png" height="400px">
     </span>
 </p>
 
 <br><br>
 <p align="center">
     <span align="left">
-        <img src="public/DeliveBoo Restaurant Menu.png" height="400px"/>
+        <img src="public/assets/DeliveBoo Restaurant Menu.png" height="400px"/>
     </span>
     <span align="right">
-        <img src="public/DeliveBooAboutUs.png" height="400px">
+        <img src="public/assets/DeliveBooAboutUs.png" height="400px">
     </span>
 </p>
 <hr>
