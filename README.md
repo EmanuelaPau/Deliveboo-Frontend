@@ -6,7 +6,7 @@ Deliveboo is a food delivery web app based in Luxemburg that allows customers to
 
 <p align="center">
     <span align="left">
-        <img src="public/gif1.gif" height="300px"/>
+        <img src="public/assets/gif1.gif" height="300px"/>
     </span>
 </p>
 
