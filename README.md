@@ -1,7 +1,65 @@
-# Vue 3 + Vite
+# <img src="public/logodeliveboo.png" height="30" margin-right="20px"/> Deliveboo
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Deliveboo is a food delivery web app based in Luxemburg that allows customers to order food from their favorite restaurant without registration, but entering only the data necessary for delivery (Credit card number, name, address). Restaurateurs can register in the platform and create, modify and delete dishes and see statistics based on their customers orders.
 
-## Recommended IDE Setup
+<br>
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+<p align="center">
+    <span align="left">
+        <img src="public/gif1.gif" height="300px"/>
+    </span>
+</p>
+
+<hr>
+
+## Setup
+
+```
+npm install
+ npm install pinia
+
+```
+<br>
+
+<hr>
+
+## run in server
+
+```
+npm artisan serve
+
+```
+
+<hr>
+
+## Screenshots 
+
+<br>
+<p align="center">
+    <span align="left">
+        <img src="public/DeliveBoo Homepage.png" height="400px"/>
+    </span>
+    <span align="right">
+        <img src="public/DeliveBoo Restaurant Search.png" height="400px">
+    </span>
+</p>
+
+<br><br>
+<p align="center">
+    <span align="left">
+        <img src="public/DeliveBoo Restaurant Menu.png" height="400px"/>
+    </span>
+    <span align="right">
+        <img src="public/DeliveBooAboutUs.png" height="400px">
+    </span>
+</p>
+<hr>
+
+## Contributors
+
+<a href="https://github.com/EmanuelaPau">Emanuela Pau</a><br>
+<a href="https://github.com/AlexTimoncini">Alex Timoncini</a><br>
+<a href="https://github.com/vito-pizzulli">Vito Pizzulli</a><br>
+<a href="https://github.com/MarioSantoro/MarioSantoro">Mario Santoro</a><br>
+
+<hr>
